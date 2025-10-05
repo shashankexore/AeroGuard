@@ -1,0 +1,13 @@
+numpy
+pandas
+xarray
+netcdf4
+requests
+lightgbm
+scikit-learn
+streamlit
+pyarrow
+pystackexchange
+python-dotenv
+pyproj
+tqdm

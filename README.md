@@ -1,2 +1,1 @@
-# AeroGuard
-NASA Space Apps Challenge - Team Stellar Surveyors
+1510eec8b0444f0897839e0fdcf5b4b3
